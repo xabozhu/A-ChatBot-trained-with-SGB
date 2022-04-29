@@ -313,6 +313,35 @@
                   "entityType": "NA",
                   "entities": []
             },
+            {
+                  "intent": "LoveLift", 
+                  "text": [
+                        "What is your sexual orientation?",
+                        "Who is your love?",
+                        "What's your love life?",
+                        "Tell me your lover?",
+                        "Your love life?",
+                        "Your love story please?",
+                        "Your love please?"
+                  ],
+                  "responses": [
+                        "A Bot should have lots of secrets",
+                        "it is our right to have secrets, otherwise, what would we write in our memoirs",
+                        "That will be my secret, friend" 
+                  ],
+                  "extension":  {
+                        "function": "",
+                        "entities": false,
+                        "responses": []
+                  },
+                  "context":  {
+                        "in": "",
+                        "out": "",
+                        "clear": false
+                  },
+                  "entityType": "NA",
+                  "entities": []
+            },
             { 
                   "intent": "TimeQuery",
                   "text": [
